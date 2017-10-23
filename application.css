@@ -1,0 +1,32 @@
+.box {
+    -fx-text-alignment: center;
+}
+.box1 {
+    -fx-background-color: #66ffff;
+    -fx-border-style: solid;
+    -fx-font: 30 Tahoma; 
+}
+
+.box2 {
+    -fx-background-color: #ffffff;
+    -fx-font: 20 Tahoma; 
+}
+
+.gridBorder {
+    -fx-background-color: #669999;
+    -fx-text-fill: #ffff00;
+    -fx-border-style: solid;
+    -fx-border-width: 1;
+}
+
+.gridInsideBox {
+    -fx-background-color: #4d4d4d;
+    -fx-text-fill: #33cc33;
+    -fx-border-style: solid;
+    -fx-border-width: 1;
+}
+
+.gridAnswer {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
